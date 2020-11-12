@@ -1,5 +1,7 @@
 F28ED Group117 NSS Bot Project
 
+The following is a description of the official Microsoft documentation:
+
 This folder contains a Bot Project created with Bot Framework Composer.
 
 The full documentation for Composer lives here:
